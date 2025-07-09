@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+	<!-- Основные каналы-->
+
+
+#EXTINF:-1 tvg-logo="" group-title="",Первый канал
+http://cdntv.online/high/76p3kfcaiy/29.m3u8
+	
+#EXTINF:-1 tvg-id="Rossiya1HD.ru_okkotv" tvg-country="" tvg-language="" tvg-logo="" group-title="",Россия 1 HD
+http://cdntv.online/high/76p3kfcaiy/33.m3u8
